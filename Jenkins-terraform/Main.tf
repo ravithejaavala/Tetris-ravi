@@ -69,7 +69,7 @@ resource "aws_instance" "web" {
   tags = {
     Name = "Jenkins-argo"
   }
-
+ 
   root_block_device {
     volume_size = 30
   }
