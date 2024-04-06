@@ -1,4 +1,4 @@
-# React Tetris V1
+# React Tetris V1 pavan
 
 Tetris game built with React
 
